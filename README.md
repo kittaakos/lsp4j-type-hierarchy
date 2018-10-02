@@ -1,5 +1,5 @@
 # lsp4j-type-hierarchy
-A p2 update site of the LSP4J with semantic highlighting capabilities
+A p2 update site of the LSP4J with the type hierarchy capabilities
 
 This is a hack to produce a p2 update site for LSP4J with the type hierarchy capabilities.
 To update the content. Run `./update.sh` from the repository root.
