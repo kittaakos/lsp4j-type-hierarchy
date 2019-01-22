@@ -6,4 +6,4 @@ rm -rf ./lsp4j/ \
 && ./lsp4j/gradlew -p lsp4j build install generateP2Build --refresh-dependencies \
 && mvn -f ./lsp4j/releng/pom.xml clean verify \
 && rm -rf ./p2/ \
-&& unzip -o ./lsp4j/releng/p2/target/lsp4j.p2-repository-0.6.0-SNAPSHOT.zip -d ./p2/
+&& unzip -o ./lsp4j/releng/p2/target/lsp4j.p2-repository-0.7.0-SNAPSHOT.zip -d ./p2/
